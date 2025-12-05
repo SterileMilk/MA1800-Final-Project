@@ -14,7 +14,7 @@ In class, we discussed net.art and how the internet can function as an art mediu
 
 Challenges
 
-This is my first experience with coding, so I found many things confusing at first. Positioning elements on the homepage, like the two links, took me some time. Also, adjusting the background images to show the parts I wanted was frustrating since they kept cropping oddly. I struggled to arrange the videos neatly on the page without disrupting the layout.
+This is my first experience with coding, so I found many things confusing at first. Positioning elements on the homepage, like the two links, took me some time. Also, adjusting the background images to show the parts I wanted was frustrating since they kept cropping oddly. I struggled to arrange the videos neatly on the page without disrupting the layout. I also struggled with making the file size small enough and had to work around this by uploading my videos to youtube and linking them to my website through url.
 
 If I Had More Time
 
